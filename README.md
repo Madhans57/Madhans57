@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center"><em>“Keep it Simple  😊”</em></p>
+<p align="center">“Keep it Simple  😊”</p>
