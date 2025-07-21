@@ -26,7 +26,7 @@
 
 ## 🧠 LeetCode Status
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Madhans57?theme=dark&font=Arial&ext=contest)](https://leetcode.com/u/Madhan57/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Madhan57?theme=dark&font=Arial&ext=contest)](https://leetcode.com/u/Madhan57/)
 
 ---
 
