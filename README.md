@@ -1,39 +1,56 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=435&lines=Hi%2C+I'm+Madhan+Sundhar)
+<h1 align="center">👋 Hi, I'm Madhan Sundhar S.</h1>
+<h3 align="center">Full Stack Developer | Linux Enthusiast | Tech Explorer</h3>
 
-
-
-💻 Full Stack Developer  | 🐧 Linux Enthusiast  | 🚀 Tech Explorer
-
-## 🔧 Tech Stack
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ☕ Backend & Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🛠️ Tools & OS
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=React+%7C+Spring+Boot+%7C+MongoDB;Java+%7C+C%2B%2B+%7C+DSA+%7C+Linux;Full+Stack+Developer+from+India;Problem+Solver+%7C+Lifelong+Learner" />
+</p>
 
 ---
 
-## 🧠 LeetCode Status
+### 🛠️ Tech Stack
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Madhan57?theme=dark&font=Arial&ext=contest)](https://leetcode.com/u/Madhan57/)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
 
 ---
 
-## 📫 Contact Me
+### 🧠 LeetCode Progress
 
-- 📧 Email: madhansundhar57@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/madhan-sundhar-23b243256/)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/madhansundhar?theme=dark&font=Fira+Code&extension=activity" />
+</p>
 
 ---
-Thanks for stopping by! 😊
+
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="mailto:madhansundhar@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhansundhar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/madhansundhar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/madhansundhar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<p align="center"><em>“Code. Debug. Repeat. Coffee helps ☕”</em></p>
