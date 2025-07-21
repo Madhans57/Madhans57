@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Madhan Sundhar
-<p align="center">
-  <h1>👋 Hi, I'm Madhan Sundhar</h1>
-</p>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=435&lines=Hi%2C+I'm+Madhan+Sundhar)
+
 
 
 💻 Full Stack Developer  | 🐧 Linux Enthusiast  | 🚀 Tech Explorer
