@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Developer | Linux User | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=React+%7C+Spring+Boot+%7C+MongoDB;Java+%7C+C%2B%2B+%7C+DSA+%7C+Linux;Full+Stack+Developer+from+India;Problem+Solver+%7C+Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Problem+Solver+%7C+Lifelong+Learner" />
 </p>
+
 
 ---
 
@@ -16,7 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center"><em>“Code. Debug. Repeat. Coffee helps ☕”</em></p>
+<p align="center"><em>“Keep it Simple  😊”</em></p>
