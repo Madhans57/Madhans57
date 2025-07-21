@@ -1,9 +1,8 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=500&lines=Hi%2C+I'm+Sundhar;Hi%2C+I'm+Madhan+Sundhar)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&color=00FFCC&width=500&lines=Hi%2C+I'm+Sundhar;Hi%2C+I'm+Madhan+Sundhar)
 
 
-💻 Full Stack Developer  
-🐧 Linux Enthusiast  
-🚀 Tech Explorer
+
+💻 Full Stack Developer  | 🐧 Linux Enthusiast  | 🚀 Tech Explorer
 
 ## 🔧 Tech Stack
 
