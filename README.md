@@ -1,6 +1,5 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=435&lines=Hi%2C+I'm+Sundhar+Madhan+Sundhar)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=500&lines=Hi%2C+I'm+Sundhar;Hi%2C+I'm+Madhan+Sundhar)
 
-# 👋 Hi, I'm Madhan Sundhar S.
 
 💻 Full Stack Developer  
 🐧 Linux Enthusiast  
